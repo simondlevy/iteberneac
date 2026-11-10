@@ -1,0 +1,2 @@
+90% It looks like your N values were too small to get nontrivial timing results.
+You need much bigger N so you can get times above 1 second.
